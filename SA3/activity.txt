@@ -1,0 +1,3 @@
+Node-red: 
+1. Add mqttout node and configure it to send to path /Light/Get
+3. Connect Colorpicker to mqttout

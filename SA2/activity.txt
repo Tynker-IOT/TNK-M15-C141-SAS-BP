@@ -1,0 +1,5 @@
+Node-red: 
+1. Create new node-red flow
+2. Add a mqttin node and a colorpicker node
+3. Connect mqttin to colorpicker
+4. Set up mqtt node
